@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "comp6604-project"
+version = "0.1.0"
+description = ""
+authors = ["AlWadhahi <firas.wadhahi@rihal.om>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8.10,<3.11"
+sklearn = "^0.0"
+keras = "^2.8.0"
+pandas = "^1.4.2"
+image-classifiers = {git = "git@github.com:qubvel/classification_models.git"}
+matplotlib = "^3.5.1"
+tensorflow = "^2.8.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
