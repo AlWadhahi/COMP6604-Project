@@ -12,6 +12,7 @@ pandas = "^1.4.2"
 image-classifiers = {git = "git@github.com:qubvel/classification_models.git"}
 matplotlib = "^3.5.1"
 tensorflow = "^2.8.0"
+seaborn = "^0.11.2"
 
 [tool.poetry.dev-dependencies]
 

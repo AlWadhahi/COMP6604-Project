@@ -10,9 +10,9 @@ This repository will contain all relevant work for the project.
 
 ## Repository Structure
 
-`TODO`
+- `notebook.ipynb`: the main notebook that explores the data and builds the model
 
 
 ## Dataset used
 
-`TODO`
+The dataset used for this experiment is [car-damage-dataset](https://github.com/neokt/car-damage-detective)
