@@ -1,3 +1,7 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/alwadhahi/comp6604-project/main/app/app.py)
+
+
+
 # COMP6604-Project
 
 This repository will contain all relevant work for the project.
